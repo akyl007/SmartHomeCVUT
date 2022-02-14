@@ -1,0 +1,54 @@
+fridge: { 
+ Electricity consumption: 520 = 78.0Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 
+cook stove: { 
+ Electricity consumption: 50 = 7.5Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 
+lamp1: { 
+ Electricity consumption: 30 = 4.5Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 
+computer: { 
+ Electricity consumption: 200 = 30.0Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 
+lamp2: { 
+ Electricity consumption: 30 = 4.5Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 
+cd player: { 
+ Electricity consumption: 60 = 9.0Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 
+shower: { 
+ Electricity consumption: 0 = 0.0Kc; 
+ Gas consumption: 200 = 14.000000000000002Kc; 
+ Water consumption:200 = 10.0Kc;
+ } 
+ 
+washing machine: { 
+ Electricity consumption: 125 = 18.75Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 
+TV: { 
+ Electricity consumption: 250 = 37.5Kc; 
+ Gas consumption: 0 = 0.0Kc; 
+ Water consumption:0 = 0.0Kc;
+ } 
+ 

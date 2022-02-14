@@ -1,0 +1,9 @@
+HouseMain.House {
+	 Number of floors: 1
+	 	 Rooms: 5
+	 	 	Windows: 0
+ 	 	 	Blinds: 0
+	 	 	HouseMain.Devices: 9
+	 	 	Residents: Son, Mother, Father, 
+	 	 	Pets: Rex, 
+ 	 	 	 	 	 	}

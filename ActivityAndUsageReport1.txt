@@ -1,0 +1,21 @@
+Son Used : 
+lamp2 1x.
+computer 1x.
+shower 1x.
+fridge 1x.
+cd player 1x.
+
+-----------------------------
+Mother Used : 
+TV 2x.
+shower 1x.
+computer 2x.
+
+-----------------------------
+Father Used : 
+computer 2x.
+fridge 1x.
+lamp1 1x.
+TV 1x.
+
+-----------------------------
